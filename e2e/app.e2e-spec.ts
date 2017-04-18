@@ -1,6 +1,6 @@
 import { MembersitePage } from './app.po';
 
-describe('membersite App', () => {
+describe('membersite App', function() {
   let page: MembersitePage;
 
   beforeEach(() => {
